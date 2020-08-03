@@ -26,8 +26,6 @@
 <img align="left" alt="PostgreSQL" width="26px" src="https://img2.gratispng.com/20180421/lkw/kisspng-postgresql-database-logo-computer-icons-replicatio-software-developer-5adbf4c2ceb373.0739840815243644828467.jpg" />
 <img align="left" alt="Docker" width="26px" src="https://www.pngfind.com/pngs/m/255-2553250_icon-docker-notext-color-docker-icon-png-transparent.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
 <br />
