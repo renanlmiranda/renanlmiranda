@@ -34,15 +34,14 @@
 
 ---
 
+### NOTE: Most Used Languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
+
+<br />
+<br />
+
 <img align="left" alt="renanlmiranda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=renanlmiranda&show_icons=true&theme=radical&count_private=true&hide_border=true" />
 
----
-
 <img align="right" alt="renanlmiranda's Github Stats" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=renanlmiranda&theme=radical"/>
-
----
-
-### NOTE: Most Used Languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
 
 [twitter]: https://twitter.com/_renness
