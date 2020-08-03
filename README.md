@@ -1,6 +1,6 @@
 ### Hello World, I'm Renan! 👋
 
-## I'm Renan Miranda, working as a web developer, and always looking for more knowledge!
+### I'm Renan Miranda, working as a web developer, and always looking for more knowledge!
 - 🌱 I’m currently learning everything 🤣.
 - ⚡ Fun fact: I love to play competitive games.
 
@@ -38,11 +38,11 @@
 
 ---
 
-<img align="left" alt="renanlmiranda's Github Stats" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=renanlmiranda&theme=radical"/>
+<img align="right" alt="renanlmiranda's Github Stats" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=renanlmiranda&theme=radical"/>
 
 ---
 
-## NOTE: Most Used Languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
+### NOTE: Most Used Languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
 
 [twitter]: https://twitter.com/_renness
