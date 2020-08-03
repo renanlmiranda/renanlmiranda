@@ -2,6 +2,8 @@
 
 ### I'm Renan Miranda, working as a web developer, and always looking for more knowledge!
 - 🌱 I’m currently learning everything 🤣.
+- 👨‍🎓 I'm in the final year of Information Systems.
+- 💘 Node, React, React Native.
 - ⚡ Fun fact: I love to play competitive games.
 
 ### Connect with me:
@@ -42,10 +44,6 @@
 
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
 <br />
 <br />
 
@@ -55,11 +53,9 @@
 
 <br />
 
-<img align="left" alt="renanlmiranda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=renanlmiranda&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-
 <img align="left" alt="renanlmiranda's Github Stats" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=renanlmiranda&theme=radical&hide=Java"/>
 
-
+<img align="left" alt="renanlmiranda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=renanlmiranda&show_icons=true&theme=radical&count_private=true&hide_border=true" />
 
 
 
