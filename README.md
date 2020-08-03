@@ -55,7 +55,7 @@
 
 <br />
 
-<img align="left" alt="renanlmiranda's Github Stats" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=renanlmiranda&theme=radical"/>
+<img align="left" alt="renanlmiranda's Github Stats" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=renanlmiranda&theme=radical&hide=Java"/>
 
 <img align="left" alt="renanlmiranda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=renanlmiranda&show_icons=true&theme=radical&count_private=true&hide_border=true" />
 
