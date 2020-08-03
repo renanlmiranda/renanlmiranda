@@ -6,9 +6,13 @@
 
 ### Connect with me:
 
-<img align="left" alt="renanlmiranda | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="renanlmiranda | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="renanlmiranda | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://twitter.com/_renness">
+  <img align="left" alt="renanlmiranda | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/renanlmiranda">
+  <img align="left" alt="renanlmiranda | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
 
 <br />
 
@@ -40,8 +44,8 @@
 
 <img align="left" alt="renanlmiranda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=renanlmiranda&show_icons=true&theme=radical&count_private=true&hide_border=true" />
 
-<img align="left" alt="renanlmiranda's Github Stats" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=renanlmiranda&theme=radical&card_width="/>
+<br />
+
+<img align="left" alt="renanlmiranda's Github Stats" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=renanlmiranda&theme=radical"/>
 
 
-[twitter]: https://twitter.com/_renness
-[linkedin]: https://linkedin.com/in/renanlmiranda
