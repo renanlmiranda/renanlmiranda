@@ -1,10 +1,9 @@
 ### Hello World, I'm Renan! 👋
 
 ### I'm Renan Miranda, working as a web developer, and always looking for more knowledge!
-- 🌱 I’m currently learning everything 🤣.
-- 👨‍🎓 I'm in the final year of Information Systems.
-- 💘 Node, React, React Native.
-- ⚡ Fun fact: I love to play competitive games.
+- 🌱 I’m currently learning Node and Golang (Solidity in the future).
+- 👨‍🎓 Information Systems.
+- ⚡ Fun fact: I love to read mangas and play games..
 
 ### Connect with me:
 
